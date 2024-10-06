@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Unreal Engine 5 Projects\\PlanetX\\Intermediate\\Source\\PlanetX.Build.cs",
+		"C:\\Unreal Engine 5 Projects\\PlanetX\\Intermediate\\Source\\PlanetX.Target.cs",
+		"C:\\Unreal Engine 5 Projects\\PlanetX\\Intermediate\\Source\\PlanetXClient.Target.cs",
+		"C:\\Unreal Engine 5 Projects\\PlanetX\\Intermediate\\Source\\PlanetXEditor.Target.cs",
+		"C:\\Unreal Engine 5 Projects\\PlanetX\\Intermediate\\Source\\PlanetXServer.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}

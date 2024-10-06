@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\unreal engine 5 projects\\planetx\\intermediate\\source\\planetx.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unreal engine 5 projects\\planetx\\intermediate\\build\\win64\\x64\\planetx\\development\\core\\sharedpch.core.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\unreal engine 5 projects\\planetx\\intermediate\\build\\win64\\x64\\unrealgame\\development\\planetx\\definitions.planetx.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
